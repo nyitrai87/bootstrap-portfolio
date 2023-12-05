@@ -1,8 +1,7 @@
 .customNav {
     position: fixed;
     width: 100%;
-    background: url("../images/transparency.png");
-    background-color: transparent !important;
+    background: url("../images/black.png");
     background-size: cover;
     z-index: 10;
 }
@@ -14,4 +13,22 @@
 
 .customNav a {
     color: white !important;
+}
+
+.hero-cont {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    max-height: auto;
+}
+
+.hero-cont img {
+    max-width: 20%;
+    max-height: 20%;
+}
+
+.about {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
 }
