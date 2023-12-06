@@ -11,6 +11,11 @@
     z-index: 10;
 }
 
+.navbar-brand img {
+    padding-right: 15px;
+    height: 45px;
+}
+
 .navbar-nav {
     margin-left: auto;
     margin-right: 0 !important;
