@@ -13,3 +13,4 @@ This project is about recreating the portfolio website I created previously, thi
 - For the navbar I have used and modified some codes from the 05-Stu-Custom-Navbar bootcamp material.
 - For the Skills section I used the 1.1.2: Roadmap section of the bootcamp prework.
 - For the "Coming Soon" placeholder I used the [https://placehold.co/](https://placehold.co/) website.
+- For the logo I have used the logo of my favourite band called Lorna Shore, from the cover of their latest album 'Pain Remains'.
