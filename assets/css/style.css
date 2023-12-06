@@ -11,6 +11,10 @@
     z-index: 10;
 }
 
+.customNav a:hover {
+    background-color: white;
+}
+
 .navbar-brand img {
     padding-right: 15px;
     height: 45px;
